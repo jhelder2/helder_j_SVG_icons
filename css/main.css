@@ -3,8 +3,6 @@ main{
 	min-width: 200px;
 	padding: 0 10px 40px 0;
 	margin: 0 auto;
-	/* border is temp, */
-	border: thin dashed #333;
 	text-align: center;
 }
 
@@ -58,6 +56,10 @@ h2 {
 	align-self: center;
 }
 
-.hidden{
+#hidden{
 	display: none;
 }
+
+/*#background {
+	display: none;
+} /*
