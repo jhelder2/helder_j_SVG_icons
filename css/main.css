@@ -57,3 +57,7 @@ h2 {
 	max-width: 900px;
 	align-self: center;
 }
+
+.hidden{
+	display: none;
+}
