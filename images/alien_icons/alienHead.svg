@@ -1,1 +1,15 @@
-<svg id="AlienHead" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"><defs><style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#a0e695;}.cls-3{fill:#ddffd8;}.cls-4{fill:none;}.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}.cls-5{fill:#95a0e6;}</style></defs><title>alienHead</title><circle id="BackCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/><path id="HeadDark" class="cls-2" d="M46.34,50.87C46.34,62,53.7,81.6,62.78,81.6S79.22,62,79.22,50.87,71.86,30.71,62.78,30.71,46.34,39.74,46.34,50.87Z" transform="translate(-25 -20)"/><path id="HeadLight" class="cls-3" d="M61.41,30.71s6.82-.51,12.18,6.76S78.27,53.15,77.08,58s-3.24,11.93-5.66,15.47-4.44,7.57-10,8.12c0,0,9.11-3.7,13.26-25.44S61.41,30.71,61.41,30.71Z" transform="translate(-25 -20)"/><path id="HeadOutline" class="cls-4" d="M46.34,50.87C46.34,62,53.7,81.6,62.78,81.6S79.22,62,79.22,50.87,71.86,30.71,62.78,30.71,46.34,39.74,46.34,50.87Z" transform="translate(-25 -20)"/><path id="EyeLeft" class="cls-5" d="M50.4,54.19S48.7,66.45,60.19,66.7C60.19,66.7,61.89,53.94,50.4,54.19Z" transform="translate(-25 -20)"/><path id="EyeRight" class="cls-5" d="M76,54.19s1.7,12.26-9.79,12.51C66.16,66.7,64.46,53.94,76,54.19Z" transform="translate(-25 -20)"/></svg>
+<svg id="AlienHead" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+	<defs>
+		<style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#a0e695;}.cls-3{fill:#ddffd8;}.cls-4{fill:none;}.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}.cls-5{fill:#95a0e6;}
+		</style>
+	</defs>
+
+	<title>alienHead</title>
+
+	<circle id="BackCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/>
+	<path id="HeadDark" class="cls-2" d="M46.34,50.87C46.34,62,53.7,81.6,62.78,81.6S79.22,62,79.22,50.87,71.86,30.71,62.78,30.71,46.34,39.74,46.34,50.87Z" transform="translate(-25 -20)"/>
+	<path id="HeadLight" class="cls-3" d="M61.41,30.71s6.82-.51,12.18,6.76S78.27,53.15,77.08,58s-3.24,11.93-5.66,15.47-4.44,7.57-10,8.12c0,0,9.11-3.7,13.26-25.44S61.41,30.71,61.41,30.71Z" transform="translate(-25 -20)"/>
+	<path id="HeadOutline" class="cls-4" d="M46.34,50.87C46.34,62,53.7,81.6,62.78,81.6S79.22,62,79.22,50.87,71.86,30.71,62.78,30.71,46.34,39.74,46.34,50.87Z" transform="translate(-25 -20)"/>
+	<path id="EyeLeft" class="cls-5" d="M50.4,54.19S48.7,66.45,60.19,66.7C60.19,66.7,61.89,53.94,50.4,54.19Z" transform="translate(-25 -20)"/>
+	<path id="EyeRight" class="cls-5" d="M76,54.19s1.7,12.26-9.79,12.51C66.16,66.7,64.46,53.94,76,54.19Z" transform="translate(-25 -20)"/>
+</svg>

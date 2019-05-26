@@ -1,1 +1,23 @@
-<svg id="SpaceShipBeam" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"><defs><style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#ddffd8;stroke-linejoin:round;}.cls-2,.cls-3,.cls-6{stroke:#000;}.cls-2,.cls-3,.cls-6,.cls-8{stroke-width:0.5px;}.cls-3{fill:#a0e695;}.cls-3,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10;}.cls-4{fill:#95a0e6;}.cls-5,.cls-7{fill:#c0d3ed;}.cls-6,.cls-8{fill:none;}.cls-7{stroke:#ddffd8;stroke-width:3px;}.cls-7,.cls-8{stroke-linecap:round;}.cls-8{stroke:#a0e695;}</style></defs><title>SpaceShipBeam</title><circle id="BackgroundCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/><polygon id="Beam" class="cls-2" points="47.81 59.74 27.21 59.74 36.18 19.65 38.83 19.65 47.81 59.74"/><ellipse id="Dome" class="cls-3" cx="37.5" cy="22.53" rx="10.31" ry="11"/><path id="ShipTop" class="cls-4" d="M161.09,138.05H139.16a5.57,5.57,0,0,0-5.57-5.58v0l4.85-4.85h23.37l4.85,4.85v0A5.57,5.57,0,0,0,161.09,138.05Z" transform="translate(-112.62 -105)"/><path id="ShipMid" class="cls-5" d="M161.26,138.05s-24.69-5.23-27.67-5.23v-.68c1.83-1.78,33.07.68,33.07.68A5.32,5.32,0,0,0,161.26,138.05Z" transform="translate(-112.62 -105)"/><path id="ShipBottom" class="cls-4" d="M161.26,138.5H139a5.54,5.54,0,0,0-5.4-5.68S161.26,135.36,161.26,138.5Z" transform="translate(-112.62 -105)"/><path id="ShipOutline" class="cls-6" d="M161.08,138.5H139.17a5.89,5.89,0,0,0-5.89-5.89h0l5.12-5.12h23.45l5.12,5.12h0A5.89,5.89,0,0,0,161.08,138.5Z" transform="translate(-112.62 -105)"/><path id="ShipOutlineMid" class="cls-6" d="M161.08,138.5s-.23-1.41-9.34-3.15c-7.22-1.38-18.32-2.74-18.32-2.74,1.83-1.86,33.43-.12,33.43-.12A6.23,6.23,0,0,0,161.08,138.5Z" transform="translate(-112.62 -105)"/><path id="DomeLight" class="cls-7" d="M147.55,119.81s-2.87.57-3.67,4.84" transform="translate(-112.62 -105)"/><line class="cls-8" x1="37.8" y1="37.53" x2="37.84" y2="51.19"/><line class="cls-8" x1="39.44" y1="40.47" x2="39.64" y2="47.95"/><line class="cls-8" x1="36.22" y1="40.34" x2="35.99" y2="48.09"/><line class="cls-8" x1="39.67" y1="50.03" x2="39.89" y2="55.48"/><line class="cls-8" x1="36.01" y1="49.95" x2="35.74" y2="55.59"/></svg>
+<svg id="SpaceShipBeam" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+	<defs>
+		<style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#ddffd8;stroke-linejoin:round;}.cls-2,.cls-3,.cls-6{stroke:#000;}.cls-2,.cls-3,.cls-6,.cls-8{stroke-width:0.5px;}.cls-3{fill:#a0e695;}.cls-3,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10;}.cls-4{fill:#95a0e6;}.cls-5,.cls-7{fill:#c0d3ed;}.cls-6,.cls-8{fill:none;}.cls-7{stroke:#ddffd8;stroke-width:3px;}.cls-7,.cls-8{stroke-linecap:round;}.cls-8{stroke:#a0e695;}
+		</style>
+	</defs>
+
+	<title>SpaceShipBeam</title>
+
+	<circle id="BackgroundCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/>
+	<polygon id="Beam" class="cls-2" points="47.81 59.74 27.21 59.74 36.18 19.65 38.83 19.65 47.81 59.74"/>
+	<ellipse id="Dome" class="cls-3" cx="37.5" cy="22.53" rx="10.31" ry="11"/>
+	<path id="ShipTop" class="cls-4" d="M161.09,138.05H139.16a5.57,5.57,0,0,0-5.57-5.58v0l4.85-4.85h23.37l4.85,4.85v0A5.57,5.57,0,0,0,161.09,138.05Z" transform="translate(-112.62 -105)"/>
+	<path id="ShipMid" class="cls-5" d="M161.26,138.05s-24.69-5.23-27.67-5.23v-.68c1.83-1.78,33.07.68,33.07.68A5.32,5.32,0,0,0,161.26,138.05Z" transform="translate(-112.62 -105)"/>
+	<path id="ShipBottom" class="cls-4" d="M161.26,138.5H139a5.54,5.54,0,0,0-5.4-5.68S161.26,135.36,161.26,138.5Z" transform="translate(-112.62 -105)"/>
+	<path id="ShipOutline" class="cls-6" d="M161.08,138.5H139.17a5.89,5.89,0,0,0-5.89-5.89h0l5.12-5.12h23.45l5.12,5.12h0A5.89,5.89,0,0,0,161.08,138.5Z" transform="translate(-112.62 -105)"/>
+	<path id="ShipOutlineMid" class="cls-6" d="M161.08,138.5s-.23-1.41-9.34-3.15c-7.22-1.38-18.32-2.74-18.32-2.74,1.83-1.86,33.43-.12,33.43-.12A6.23,6.23,0,0,0,161.08,138.5Z" transform="translate(-112.62 -105)"/>
+	<path id="DomeLight" class="cls-7" d="M147.55,119.81s-2.87.57-3.67,4.84" transform="translate(-112.62 -105)"/>
+	<line class="cls-8" x1="37.8" y1="37.53" x2="37.84" y2="51.19"/>
+	<line class="cls-8" x1="39.44" y1="40.47" x2="39.64" y2="47.95"/>
+	<line class="cls-8" x1="36.22" y1="40.34" x2="35.99" y2="48.09"/>
+	<line class="cls-8" x1="39.67" y1="50.03" x2="39.89" y2="55.48"/>
+	<line class="cls-8" x1="36.01" y1="49.95" x2="35.74" y2="55.59"/>
+</svg>
