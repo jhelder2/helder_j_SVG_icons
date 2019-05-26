@@ -1,0 +1,59 @@
+main{
+	max-width: 960px;
+	min-width: 200px;
+	padding: 0 10px 40px 0;
+	margin: 0 auto;
+	/* border is temp, */
+	border: thin dashed #333;
+	text-align: center;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 2px;
+}
+
+#imageContainer {
+	display: flex;
+	max-width: 960px;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#images {
+	width: 60%;
+	min-width: 10px;
+	max-width: 900px;
+	align-self: center;
+}
+
+#images img{
+	padding: 10px;
+	border: solid black;
+	margin: 0 10px 15px 0;
+}
+
+#alienContainer, #mechanicContainer, #musicContainer, #splatContainer {
+	margin: 40px 0 40px 0;
+	display: flex;
+	max-width: 960px;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#alienIcons, #mechanicIcons, #musicIcons, #splatIcons {
+	width: 80%;
+	min-width: 10px;
+	max-width: 900px;
+	align-self: center;
+}

@@ -1,1 +1,23 @@
-<svg id="Planet" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"><defs><style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#95a0e6;}.cls-2,.cls-3,.cls-4,.cls-6,.cls-7{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}.cls-3,.cls-6,.cls-7{fill:none;stroke-linecap:round;}.cls-3{stroke-dasharray:2.04 3.05;}.cls-4{fill:#ddffd8;}.cls-5{fill:#c0d3ed;}.cls-6{stroke-dasharray:0.64;}.cls-7{stroke-dasharray:8.74;}</style></defs><title>PlanetOrbit</title><circle id="BackgroundCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/><circle id="Planet-2" data-name="Planet" class="cls-2" cx="37.96" cy="37.5" r="15.12"/><g id="DashedLine"><circle class="cls-3" cx="37.96" cy="37.5" r="21.87"/></g><circle id="Moon" class="cls-4" cx="57.52" cy="27.26" r="3.43"/><circle id="PlanetDotLarge" class="cls-5" cx="30.7" cy="33.35" r="2.65"/><circle id="PlanetDotMid" class="cls-5" cx="34.07" cy="45.01" r="1.87"/><circle id="PlanetDotSmall" class="cls-5" cx="37.47" cy="26.26" r="1.53"/><g id="PlantLineSmall"><path class="cls-6" d="M247.58,66.54c-.12.17-.25.33-.39.5" transform="translate(-200 -20)"/></g><g id="PlanetLineLarge"><path class="cls-7" d="M250.6,55.2a12.89,12.89,0,0,1-1.22,8.49" transform="translate(-200 -20)"/></g></svg>
+<svg id="Planet" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+	<defs>
+		<style>.cls-1{fill:#e6d8ff;}.cls-2{fill:#95a0e6;}.cls-2,.cls-3,.cls-4,.cls-6,.cls-7{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}.cls-3,.cls-6,.cls-7{fill:none;stroke-linecap:round;}.cls-3{stroke-dasharray:2.04 3.05;}.cls-4{fill:#ddffd8;}.cls-5{fill:#c0d3ed;}.cls-6{stroke-dasharray:0.64;}.cls-7{stroke-dasharray:8.74;}
+		</style>
+	</defs>
+
+	<title>PlanetOrbit</title>
+	<circle id="BackgroundCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/>
+	<circle id="Planet-2" data-name="Planet" class="cls-2" cx="37.96" cy="37.5" r="15.12"/>
+	<g id="DashedLine">
+		<circle class="cls-3" cx="37.96" cy="37.5" r="21.87"/>
+	</g>
+	<circle id="Moon" class="cls-4" cx="57.52" cy="27.26" r="3.43"/>
+	<circle id="PlanetDotLarge" class="cls-5" cx="30.7" cy="33.35" r="2.65"/>
+	<circle id="PlanetDotMid" class="cls-5" cx="34.07" cy="45.01" r="1.87"/>
+	<circle id="PlanetDotSmall" class="cls-5" cx="37.47" cy="26.26" r="1.53"/>
+	<g id="PlantLineSmall">
+		<path class="cls-6" d="M247.58,66.54c-.12.17-.25.33-.39.5" transform="translate(-200 -20)"/>
+	</g>
+	<g id="PlanetLineLarge">
+		<path class="cls-7" d="M250.6,55.2a12.89,12.89,0,0,1-1.22,8.49" transform="translate(-200 -20)"/>
+	</g>
+</svg>
