@@ -1,0 +1,33 @@
+<svg id="TwoHeads" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+	<defs>
+		<style>
+			.cls-1{fill:#e6d8ff;}
+			.cls-2,.cls-8{fill:#95a0e6;}
+			.cls-3{fill:#c0d3ed;}
+			.cls-4{fill:none;}
+			.cls-4,
+			.cls-5,
+			.cls-8{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}
+			.cls-5,.cls-7{fill:#ddffd8;}
+			.cls-6{fill:#a0e695;}
+		</style>
+	</defs>
+
+	<title>TwoHeads</title>
+
+	<circle id="BackgoundCircle" class="cls-1" cx="37.5" cy="37.5" r="37.5"/>
+	<g id="PurpHead">
+		<path id="HeadPurp" class="cls-2" d="M62.93,137.42c0,6.78,5.15,18.69,11.5,18.69s11.51-11.91,11.51-18.69-5.16-12.26-11.51-12.26S62.93,130.65,62.93,137.42Z" transform="translate(-25.28 -105)"/>
+		<path id="Streak" class="cls-3" d="M73.47,125.16A11.09,11.09,0,0,1,82,129.27a13.4,13.4,0,0,1,2.44,12.49c-.84,3-2.27,7.26-4,9.41s-3.11,4.6-7,4.94c0,0,6.38-2.25,9.28-15.47S73.47,125.16,73.47,125.16Z" transform="translate(-25.28 -105)"/>
+		<path id="HeadOutline" class="cls-4" d="M62.93,137.42c0,6.78,5.15,18.69,11.5,18.69s11.51-11.91,11.51-18.69-5.16-12.26-11.51-12.26S62.93,130.65,62.93,137.42Z" transform="translate(-25.28 -105)"/>
+		<path id="EyeLeft" class="cls-5" d="M65.77,139.44s-1.19,7.45,6.85,7.61C72.62,147.05,73.81,139.29,65.77,139.44Z" transform="translate(-25.28 -105)"/>
+		<path id="EyeRight" class="cls-5" d="M83.65,139.44s1.19,7.45-6.85,7.61C76.8,147.05,75.61,139.29,83.65,139.44Z" transform="translate(-25.28 -105)"/>
+	</g>
+	<g id="GreenHead">
+		<path id="HeadGreen" class="cls-6" d="M39.3,139.83c0,9,6.37,24.89,14.23,24.89s14.23-15.86,14.23-24.89S61.39,123.5,53.53,123.5,39.3,130.81,39.3,139.83Z" transform="translate(-25.28 -105)"/>
+		<path id="Streak-2" data-name="Streak" class="cls-7" d="M52.35,123.5s5.89-.42,10.53,5.48,4.06,12.7,3,16.63-2.8,9.67-4.89,12.53-3.85,6.14-8.66,6.58c0,0,7.88-3,11.47-20.61S52.35,123.5,52.35,123.5Z" transform="translate(-25.28 -105)"/>
+		<path id="Outline" class="cls-4" d="M39.3,139.83c0,9,6.37,24.89,14.23,24.89s14.23-15.86,14.23-24.89S61.39,123.5,53.53,123.5,39.3,130.81,39.3,139.83Z" transform="translate(-25.28 -105)"/>
+		<path id="EyeLeft-2" data-name="EyeLeft" class="cls-8" d="M42.82,142.52s-1.47,9.93,8.47,10.14C51.29,152.66,52.76,142.31,42.82,142.52Z" transform="translate(-25.28 -105)"/>
+		<path id="EyeRight-2" data-name="EyeRight" class="cls-8" d="M64.93,142.52s1.47,9.93-8.47,10.14C56.46,152.66,55,142.31,64.93,142.52Z" transform="translate(-25.28 -105)"/>
+	</g>
+</svg>
