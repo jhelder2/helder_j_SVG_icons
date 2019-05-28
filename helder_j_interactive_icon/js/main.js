@@ -79,13 +79,13 @@
 	//Green Head Invert Colours
 	function frontColour() {
 		frontHeadFace.classList.remove()
-		frontHeadFace.classList.toggle("invertGH") // ("cls-2") !Will add "cls-2" but crosses out "cls-6"! //
+		frontHeadFace.classList.toggle("invertGH") // ("cls-2") !Will add "cls-2" but crosses out "cls-2"! //
 		frontHeadStreak.classList.remove()
-		frontHeadStreak.classList.toggle("invertLG") // ("cls-3") !Will add "cls-3" but crosses out "cls-7"! //
+		frontHeadStreak.classList.toggle("invertLG") // ("cls-3") !Will add "cls-3" but crosses out "cls-3"! //
 		frontHeadEyeL.classList.remove()
-		frontHeadEyeL.classList.toggle("invertEyes") // ("cls-5") !Will add "cls-5" but crosses out "cls-8"! //
+		frontHeadEyeL.classList.toggle("invertEyes") // ("cls-5") !Will add "cls-5" but crosses out "cls-5"! //
 		frontHeadEyeR.classList.remove()
-		frontHeadEyeR.classList.toggle("invertEyes") // ("cls-5") !Will add "cls-5" but crosses out "cls-8"! //
+		frontHeadEyeR.classList.toggle("invertEyes") // ("cls-5") !Will add "cls-5" but crosses out "cls-5"! //
 	}
 //events 
 
